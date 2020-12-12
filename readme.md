@@ -1,5 +1,7 @@
-Aplikasi Wayangku
+## Aplikasi Wayangku
 
 Dibuat oleh :
-Nama : Dian Agus Yulianto
-NIM  : 17.12.0096
+<br>
+`Nama : Dian Agus Yulianto`
+<br>
+`NIM  : 17.12.0096`
